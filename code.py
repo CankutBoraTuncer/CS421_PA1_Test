@@ -1,7 +1,1 @@
-# CS 421 Programming Assignment 1 - PseudoGit
-
-def greet_the_student():
-    return "Hello World1"
-
-if(__name__ == "__main__"):
-    print(greet_the_student())
+{"name":"code.py","path":"code.py","sha":"a83bfe26b9ae1f07ee0553e29eafac60f7ee8bcb","size":158,"url":"https://api.github.com/repos/CankutBoraTuncer/CS421_PA1_Test/contents/code.py?ref=main","html_url":"https://github.com/CankutBoraTuncer/CS421_PA1_Test/blob/main/code.py","git_url":"https://api.github.com/repos/CankutBoraTuncer/CS421_PA1_Test/git/blobs/a83bfe26b9ae1f07ee0553e29eafac60f7ee8bcb","download_url":"https://raw.githubusercontent.com/CankutBoraTuncer/CS421_PA1_Test/main/code.py","type":"file","content":"IyBDUyA0MjEgUHJvZ3JhbW1pbmcgQXNzaWdubWVudCAxIC0gUHNldWRvR2l0\nCgpkZWYgZ3JlZXRfdGhlX3N0dWRlbnQoKToKICAgIHJldHVybiAiSGVsbG8g\nV29ybGQxIgoKaWYoX19uYW1lX18gPT0gIl9fbWFpbl9fIik6CiAgICBwcmlu\ndChncmVldF90aGVfc3R1ZGVudCgpKQo=\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/CankutBoraTuncer/CS421_PA1_Test/contents/code.py?ref=main","git":"https://api.github.com/repos/CankutBoraTuncer/CS421_PA1_Test/git/blobs/a83bfe26b9ae1f07ee0553e29eafac60f7ee8bcb","html":"https://github.com/CankutBoraTuncer/CS421_PA1_Test/blob/main/code.py"}}
